@@ -1,0 +1,285 @@
+
+body a:hover {
+    color: #46AADC;
+}
+body blockquote::after {
+    color: #46AADC;
+}
+body ul li::after {
+    color: #46AADC
+}
+
+body ol li::before {
+    color: #46AADC
+}
+body .main-color-font {
+    color: #46AADC
+}
+body .component_color_1 {
+    color: #FFAF60
+}
+body .component_color_2 {
+    color: #76BEBA
+}
+body .component_color_3 {
+    color: #7192BD
+}
+body svg.main-color-font path {
+    color: #46AADC
+}
+body svg.component_color_1 path {
+    color: #FFAF60
+}
+body svg.component_color_2 path {
+    color: #76BEBA
+}
+body svg.component_color_3 path {
+    color: #7192BD
+}
+body .main-color-font {
+    color: #46AADC
+}
+
+button,
+.button {
+    background: #46AADC;
+}
+button.color-2,
+.button.color-2 {
+    background: #FFAF60
+}
+button.color-2:hover,
+.button.color-2:hover {
+    color: #FFAF60 !important
+}
+button:hover,
+.button:hover {
+    color: #46AADC !important
+}
+button:hover.read-more svg path,
+.button:hover.read-more svg path {
+    fill: #46AADC
+}
+button:hover svg path,
+.button:hover svg path {
+    fill: #46AADC
+}
+input[type='checkbox']:checked+span:after {
+    border-color: #46AADC;
+    color: #46AADC
+}
+input[type='checkbox']+span:hover {
+    color: #46AADD
+}
+.bootstrap-datetimepicker-widget table tbody tr span.active,
+.bootstrap-datetimepicker-widget table tbody tr td.active,
+.bootstrap-datetimepicker-widget .datepicker-months tbody tr span.active,
+.bootstrap-datetimepicker-widget .datepicker-months tbody tr td.active,
+.bootstrap-datetimepicker-widget .datepicker-years tbody tr span.active,
+.bootstrap-datetimepicker-widget .datepicker-years tbody tr td.active,
+.bootstrap-datetimepicker-widget .datepicker-decades tbody tr span.active,
+.bootstrap-datetimepicker-widget .datepicker-decades tbody tr td.active,
+.datepicker table tbody tr span.active,
+.datepicker table tbody tr td.active,
+.datepicker .datepicker-months tbody tr span.active,
+.datepicker .datepicker-months tbody tr td.active,
+.datepicker .datepicker-years tbody tr span.active,
+.datepicker .datepicker-years tbody tr td.active,
+.datepicker .datepicker-decades tbody tr span.active,
+.datepicker .datepicker-decades tbody tr td.active {
+    background: #46AADC
+}
+.bootstrap-datetimepicker-widget .datepicker-days tbody tr td.active,
+.datepicker .datepicker-days tbody tr td.active {
+    background: #46AADC
+}
+.slick-dots li.slick-active button:after {
+    border: 3px solid #46AADC;
+}
+.slick-dots li button:after {
+    background: #46AADC;
+}
+.read-more {
+    color: #46AADC
+}
+.read-more svg path {
+    fill: #46AADC
+}
+.video-btn {
+    color: #46AADC
+}
+.video-btn .play-ico span {
+    background: #46AADC
+}
+.video-btn .play-ico.animate::before {
+    background: #46AADC;
+}
+.centre-tab-list li a.active,
+.centre-tab-list li p.active,
+.pagination li a.active,
+.pagination li p.active {
+    color: #46AADC
+}
+.successform p {
+    font-weight: 500;
+    color: #46AADC
+}
+.search-form button:hover {
+    color: #46AADC !important
+}
+.slick-arrow:hover {
+    background: #46AADC
+}
+.slick-arrow i {
+    color: #46AADC
+}
+.up-btn {
+    background: #46AADC;
+}
+.up-btn:hover svg path {
+    fill: #46AADC
+}
+footer .footer-bottom-wrap p a:hover {
+    color: #46AADC
+}
+.contact-list a:hover {
+    color: #46AADC
+}
+.soc-link li a:hover {
+    background: #46AADC
+}
+.quickLinks-wrap.mobile .quickLinks-desc:nth-child(5) {
+    background: #46AADC
+}
+.quickLinks-wrap .quickLinks-item:nth-child(1) .quickLinks-head,
+.quickLinks-wrap .quickLinks-item:nth-child(1) .quickLinks-desc {
+    background: #46AADC
+}
+.quickLinks-wrap .quickLinks-item:nth-child(3) .quickLinks-head,
+.quickLinks-wrap .quickLinks-item:nth-child(3) .quickLinks-desc {
+    background: #76BEBA;
+}
+.quickLinks-wrap .quickLinks-item:nth-child(4) .quickLinks-head,
+.quickLinks-wrap .quickLinks-item:nth-child(4) .quickLinks-desc {
+    background: #7192BD;
+}
+.quickLinks-wrap .quickLinks-head {
+    background: #46AADC;
+}
+.quickLinks-wrap .quickLinks-desc:nth-child(5) {
+    background: #46AADC
+}
+.block-header p::after {
+    background: #46AADC
+}
+.block-header h2 span {
+    color: #46AADC
+}
+.education-short.color-4 .education-bottom {
+    background: #46AADC
+}
+.learning-elements-wrap .tab-element-content h3::after {
+    background: #46AADC
+}
+.order-list-2 li .list-description::before {
+    color: #46AADC
+}
+.testimonial-block .testimonial-description time {
+    color: #46AADC
+}
+.news-block .news-block-description .news-block-description__short-text p {
+    margin-bottom: 30px
+}
+.news-block .news-block-description .news-block-description__short-text time {
+    color: #46AADC
+}
+.pricing-packages-card .pricing-packages-price .price {
+    color: #46AADC
+}
+.count-block .count-numb p {
+    color: #46AADC;
+}
+.accordion-block .accordion-header .accordion-ico::before,
+.accordion-block .accordion-header .accordion-ico::after {
+    background: #46AADC;
+}
+.program-preview .program-slider-wrap .program-nav-slider .program-slide.slick-current::after {
+    border: 2px solid #46AADC
+}
+.calenar .now-data,
+.calenar .next-mounth {
+    color: #46AADC
+}
+.calenar table thead tr {
+    background: #46AADC
+}
+.calenar table tbody tr td.selected {
+    border: 2px solid #46AADC;
+}
+.side-post .post-meta {
+    color: #46AADC
+}
+.blog-post .post-link span i {
+    color: #46AADC
+}
+.blog-post .post-meta time {
+    color: #46AADC
+}
+.blog-post .post-meta .post-meta-author a {
+    color: #46AADC
+}
+.blog-post .post-title:hover {
+    color: #46AADC
+}
+.blog-post-nav .blog-nav-link:hover {
+    color: #46AADC
+}
+.comment-block .text .meta time {
+    color: #46AADC
+}
+.comment-block .text a {
+    color: #46AADC
+}
+.comments h4 span {
+    color: #46AADC
+}
+.parent-info-item .parent-title .parent-title__ico {
+    background: #46AADC;
+}
+.resources-block .resources-text a {
+    color: #46AADC
+}
+.practices-list-wrap .practices-ico {
+    background: #46AADC;
+}
+.event-table thead tr td {
+    color: #46AADC
+}
+.event-table tr td.currentle-day .data:before {
+    background: #46AADC
+}
+.event-table tr td .data {
+    color: #46AADC
+}
+.single-event .event-image time {
+    color: #46AADC
+}
+.short-event time {
+    color: #46AADC
+}
+.pagination span.page-numbers.current {
+    color: #46AADC;
+}
+div.wpcf7 .screen-reader-response[role="alert"] {
+    background: #46aadc;
+}
+.no-style-btn-cnt:hover input {
+    color: #46aadc;
+}
+.current-menu-item a {
+    color: #46AADD !important;
+}
+.main-nav-list li a:hover, .main-nav-list li a.active-link {
+    color: #46AADD;
+}
+
